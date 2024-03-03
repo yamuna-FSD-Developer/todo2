@@ -1,3 +1,10 @@
+
+Todo List is created using react-Props,useState.
+
+
+
+
+<img width="920" alt="image" src="https://github.com/yamuna-FSD-Developer/todo2/assets/150881590/270c235e-bb0d-4539-b7d3-a7a1dd2dd3a4">
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
